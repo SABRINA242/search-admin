@@ -228,5 +228,10 @@
     "user_code": "USER-75D1CC30",
     "kakaotalk_name": "말하는대로",
     "status": "active"
+  },
+  {
+    "user_code": "USER-E595835C",
+    "kakaotalk_name": "로기",
+    "status": "active"
   }
 ]
