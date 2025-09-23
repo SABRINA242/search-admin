@@ -17,9 +17,11 @@
   {
     "user_code": "29E74D1140C8-101D",
     "kakaotalk_name": "소나",
-    "thread_address": "https://www.threads.com/@sona_tip?hl=ko",
-    "status": "active",
-    "approval_date": "2025-09-23",
-    "request_date": "2025-09-23"
+    "status": "active"
+  },
+  {
+    "user_code": "0F7EC1948D45-F55F",
+    "kakaotalk_name": "Gems sns",
+    "status": "active"
   }
 ]
